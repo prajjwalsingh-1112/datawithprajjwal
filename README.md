@@ -1,7 +1,7 @@
-💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+💫 Hi 👋, I'm Prajjwal Singh
+**Aspiring Data Analyst | SQL, Excel, Power BI & Tableau | Open for Freelance Projects on Fiverr**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **prajjwalsingh1112@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** SQL • Python • Power BI • Dashboard Development • Data Visualization
 - 🌱 **I’m currently learning:** Advanced Data Analytics, DAX, Data Cleaning, and Business Intelligence Concepts
